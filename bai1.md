@@ -9,7 +9,7 @@
 tiếp xúc với lập trình. Java không quá basic, cũ kĩ như C++, không nhiều chức năng như swift hay các ngôn ngữ hiện đại 
 nhưng lại chứa những base cho cả quá trình học sau này.
 
-`Mình sẽ cùng đồng hành cùng các bạn trong chặng đường dài phiến trước nhé`
+`Mình sẽ cùng đồng hành cùng các bạn trong chặng đường dài phía trước nhé`
 
 ## Hướng đối tượng ( OOP )
 
@@ -19,3 +19,5 @@ với cái nghề này. Hướng đối tượng đã và đang là xu hướng 
 function rồi và tất nhiên Java là một ngôn ngữ lập trình hướng đối tượng.
 
 ## JVM 
+Java Virtual Machine là nơi mà code java sau khi dc compile ra bytecode sẽ chạy. Nói một cách đơn giản, ngắn gọn là nơi đâu có 
+JVM thì java đều có thể chạy được. Điều này dẫn tới một tính năng của java : 
